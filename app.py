@@ -11,7 +11,9 @@ def tarefa():
         "Imagens": [".jpg", ".png", ".jpeg"],
         "Pdf": [".pdf", ".docx"],
         "Planilha": [".xlsx"],
-        "Música": [".mp3", ".mp4"]
+        "Música": [".mp3"],
+        "Vídeo": [".mp4", ".avi", ".mkv"],
+        "Arquivos Compactados": [".zip", ".rar"],
     }
 
     # Definir a pasta onde estão os arquivos desorganizados
