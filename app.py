@@ -1,6 +1,6 @@
+import schedule
 import os
 import shutil
-import schedule
 import time
 
 
